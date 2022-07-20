@@ -1,1 +1,1 @@
-#first javascript game
+# platformer game made with javascript
